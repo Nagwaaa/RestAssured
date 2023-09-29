@@ -23,5 +23,6 @@ public class AddPlace {
         JsonPath js=new JsonPath(resp);
         String placid=js.get("place_id");
         System.out.println(placid);
+        System.out.println("Nagwaaaa");
     }
 }
