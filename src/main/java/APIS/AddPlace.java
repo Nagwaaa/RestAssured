@@ -24,5 +24,6 @@ public class AddPlace {
         String placid=js.get("place_id");
         System.out.println(placid);
         System.out.println("Nagwaaaa");
+        System.out.println("Nagwaaaa");
     }
 }
